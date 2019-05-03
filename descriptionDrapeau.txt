@@ -1,0 +1,4 @@
+Les pixels 1, 4 et 7 sont bleu
+Les pixels 2, 5 et 8 sont blanc
+Les pixels 3, 6 et 9 sont rouge
+On a donc le drapeau de la France
